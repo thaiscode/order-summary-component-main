@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: https://thaiscode.github.io/order-summary-component-main/
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/order-summary-component-with-html-and-css-TgwYNXAMb)
+- Live Site URL: [Live site] (https://thaiscode.github.io/order-summary-component-main/)
 
 ## My process
 
